@@ -1,3 +1,6 @@
+## IMPORTANT
+Project merge with [AlgoPerform](https://github.com/gaganyadav80/AlgoPerform)
+
 # dsa-visualizer-qt
 Stack, Queue and Binary Heap(Min Heap) Visualizer made with QT Creator in C++. <br>
 Fork of https://github.com/ranjiniarthi/DataVisualizer-Cpp
